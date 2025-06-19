@@ -1,0 +1,19 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Felix Kummer'
+theme = 'hello-friend-ng'
+
+[params]
+    description = "PhD candidate | [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en), Department of Computer Science | [CRC FONDA](https://fonda.hu-berlin.de/)"
+
+    [[params.social]]
+        name = "email"
+        url = "mailto:felix.kummer@hu-berlin.de"
+
+    [[params.social]]
+        name = "github"
+        url = "https://github.com/Felix-Kummer"
+
+    [[params.social]]
+        name = "orcid"
+        url = "https://orcid.org/0009-0007-1154-6980"
